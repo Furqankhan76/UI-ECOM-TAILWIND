@@ -5,5 +5,5 @@ Completed a task given by standardtouch with TailwindCSS (though it's not respon
 - Grid
 - Borders
 
-  You can also take a look on this :
+You can also take a look on this :
 https://furqankhan76.github.io/UI-ECOM-TAILWIND/
