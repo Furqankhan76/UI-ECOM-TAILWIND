@@ -6,4 +6,4 @@ Completed a task given by standardtouch with TailwindCSS (though it's not respon
 - Borders
 
   You can also take a look on this :
-(https://furqankhan76.github.io/UI-ECOM-TAILWIND/)
+https://furqankhan76.github.io/UI-ECOM-TAILWIND/
